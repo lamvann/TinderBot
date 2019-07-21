@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="TinderBot",
-    version="0.0.1",
+    version="0.0.2",
     author="Hosam Fikry",
     author_email="hfikry92@gmail.com",
     description="A small example package",
