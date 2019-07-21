@@ -1,4 +1,5 @@
 README.md
+TinderBot.py
 setup.py
 TinderBot.egg-info/PKG-INFO
 TinderBot.egg-info/SOURCES.txt

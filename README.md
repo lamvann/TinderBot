@@ -7,7 +7,7 @@ You can easily automate your tinder likes using your own credentials. To read th
 
   - Using keywords for random Super Likes
   - Integrating with an AI model
-  - Wour suggestions are Encouraged (hfikry92@gmail.com) or send me a message on medium @hfikry92 
+  - Your suggestions are Encouraged (hfikry92@gmail.com) or send me a message on medium @hfikry92 
 
 
 ### Installation
