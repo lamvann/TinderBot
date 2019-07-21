@@ -39,10 +39,16 @@ Installing package through Google Colab, Kaggle or other cloud notebooks that al
 | |  printProgress (optional boolan) | The default is True. it simply shows/hides the progress print |
 
 
-### Todos
+### Example
 
- - Write MORE Tests
- - Add Night Mode
+```python
+bot = TinderBot("2.txt")
+bot.likeAll()
+#OR
+bot.likeMany(maxLikes = 10, sleep = 1)
+```
+
+
 
 License
 ----
