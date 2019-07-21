@@ -42,7 +42,7 @@ Installing package through Google Colab, Kaggle or other cloud notebooks that al
 ### Example
 
 ```python
-bot = TinderBot("2.txt")
+bot = TinderBot("headers_textfile.txt")
 bot.likeAll()
 #OR
 bot.likeMany(maxLikes = 10, sleep = 1)
