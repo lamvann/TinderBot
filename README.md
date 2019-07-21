@@ -3,11 +3,11 @@
 You can easily automate your tinder likes using your own credentials. To read the full tutorial of how to get your request headers (credentials) kindly check my article on Medium: https://medium.com/@hfikry92/automate-likes-on-tinder-in-10-minutes-using-python-c16b42164dc6
 
 
-# Coming soon Features!
+# Coming soon!
 
-  - Using keywords for random Super Likes
+  - Using keywords for random Super Likes automation
   - Integrating with an AI model
-  - Your suggestions are Encouraged (hfikry92@gmail.com) or send me a message on medium @hfikry92 
+  - Your suggestions are highly encouraged
 
 
 ### Installation
