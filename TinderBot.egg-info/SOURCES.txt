@@ -1,0 +1,7 @@
+README.md
+setup.py
+TinderBot.egg-info/PKG-INFO
+TinderBot.egg-info/SOURCES.txt
+TinderBot.egg-info/dependency_links.txt
+TinderBot.egg-info/requires.txt
+TinderBot.egg-info/top_level.txt
