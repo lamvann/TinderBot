@@ -1,7 +1,6 @@
 # TinderBot
 
-You can easily automate your tinder likes using your own credentials. To read the full tutorial of how to get your request headers (credentials) kindly check my article on Medium: https://medium.com/@hfikry92/automate-likes-on-tinder-in-10-minutes-using-python-c16b42164dc6
-
+You can easily automate your tinder likes using your own credentials. To read the full tutorial of how to get your request headers (credentials) kindly check my [article on Medium](https://medium.com/@hfikry/automate-likes-on-tinder-in-10-minutes-using-python-c16b42164dc6)
 
 # Coming soon!
 
